@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ysultt
 - 👀 I’m interested in guitar
-- 🌱 I’m currently learning golang & ES
+- 🌱 I’m es certified engineer
 - 💞️ I’m looking to collaborate on .... let me think about future
 - 📫 How to reach me : my email is ysultt@163.com
 
